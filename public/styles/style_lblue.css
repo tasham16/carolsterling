@@ -1,0 +1,89 @@
+#menu_container {
+
+	background-image: url(../images/menu_bg_lblue.png);
+
+}
+
+#menu ul li {
+	border-right: 1px solid #187b94;
+}
+
+#menu ul li a {
+	border-right: 1px solid #57abc3;
+	text-shadow: 1px 1px #187b94;
+}
+
+#menu_icon_right a {
+
+	border-left: 1px solid #187b94;
+}
+
+#menu_icon_right {
+	border-left: 1px solid #57abc3;
+}
+
+body {
+	background-color: #f0f0f0;
+}
+
+
+
+#portfolio_pagination ul li:hover, #portfolio_pagination ul li.selected {
+	background-image: url(../images/page_nav_active_lblue.png);
+}
+
+.nivo-controlNav a.active{
+	background-image: url(../images/page_nav_active_lblue.png);
+}
+
+
+
+.port_cat_l {
+	background-image: url(../images/portfolio_hover_l_lblue.png);
+
+}
+
+.port_cat_r {
+	background-image: url(../images/portfolio_hover_r_lblue.png);
+
+}
+
+.port_cat {
+	background-image: url(../images/portfolio_hover_bg_lblue.png);
+	
+}
+
+
+#portfolio_categories ul li.selected{
+
+	text-shadow: 1px 1px #187b94;
+}
+
+
+
+a.btn , a.btn {
+    background: transparent url(../images/buttons_a_lblue.gif) no-repeat scroll top right;
+
+}
+
+a.btn span , a.btn span {
+    background: transparent url(../images/buttons_span_lblue.gif) no-repeat top left;
+	text-shadow:1px 1px #187b94;
+
+}
+
+
+a {
+	color: #3b9bb6;
+}
+
+.post_info a{
+	color: #3b9bb6;
+
+}
+
+.post_info{
+	color: #3b9bb6;
+
+	
+}

@@ -1,0 +1,18 @@
+.contact_message{
+	top:5px;
+	right:25px;
+	width:150px;
+}
+
+.page_container{
+	float:none;
+}
+
+#contact_status{
+	margin-top:-30px;	
+}
+
+.contact_icon{
+	position:relative;
+	top:3px;	
+}

@@ -1,0 +1,51 @@
+#site_intro {
+	position: relative;
+	top: -5px;
+}
+
+#site_intro_bottom {
+	position: relative;
+	bottom: -10px;
+}
+
+#intro_icon {
+	margin-left: 10px;
+}
+
+hr {
+	height: 1px;
+}
+
+#site_intro_bottom {
+	position: relative;
+	top: -3px;
+}
+
+.page_container {
+	float: none;
+}
+
+#menu ul li a:hover, #menu ul li a:active, #menu_icon_right a:hover, #menu_icon_right a:active{
+	background-image: none;
+}
+
+.prev_post {
+	padding-bottom: 1px;
+}
+
+#corner_left_top, #corner_right_top, #corner_left_bottom, #corner_right_bottom{
+	display: none;
+}
+
+
+#menu_home {
+	background-image: url(../images/menu_home.gif);
+}
+
+#menu_twitter {
+	background-image: url(../images/menu_twitter.gif);
+}
+
+.four_columns_1,.four_columns_2,.four_columns_3,.four_columns_4 {
+ margin-right: 23px;
+}

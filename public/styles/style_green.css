@@ -1,0 +1,175 @@
+#menu_container {
+
+	background-image: url(../images/menu_bg_green.png);
+
+}
+
+#menu ul li {
+	border-right: 1px solid #536e11;
+}
+
+#menu ul li a {
+	border-right: 1px solid #9bac60;
+	text-shadow: 1px 1px #536e11;
+}
+
+#menu_icon_right a {
+
+	border-left: 1px solid #536e11;
+}
+
+#menu_icon_right {
+	border-left: 1px solid #9bac60;
+}
+
+body {
+	background-color: #fcf9e8;
+}
+
+
+
+#portfolio_pagination ul li:hover, #portfolio_pagination ul li.selected {
+	background-image: url(../images/page_nav_active_green.png);
+}
+
+.nivo-controlNav a.active{
+	background-image: url(../images/page_nav_active_green.png);
+}
+
+.nivo-controlNav a{
+
+	background-image: url(../images/page_nav_gr.png);
+}
+
+#portfolio_pagination ul li {
+
+	background-image: url(../images/page_nav_gr.png);
+
+}
+
+#site_intro_container {
+	background-image: url(../images/intro_bg_gr.png);
+
+}
+
+#site_intro {
+
+	background-image: url(../images/intro_top_bg_gr.png);
+
+}
+
+#site_intro_bottom {
+
+	background-image: url(../images/intro_bottom_bg_gr.png);
+
+}
+
+#portfolio_categories {
+	background-image: url(../images/portfolio_navigation_bg_gr.png);
+
+}
+
+
+.port_cat_l {
+	background-image: url(../images/portfolio_hover_l_green.png);
+
+}
+
+.port_cat_r {
+	background-image: url(../images/portfolio_hover_r_green.png);
+
+}
+
+.port_cat {
+	background-image: url(../images/portfolio_hover_bg_green.png);
+	
+}
+
+
+#portfolio_categories ul li.selected{
+
+	text-shadow: 1px 1px #536e11;
+}
+
+
+#contact_form{
+	background-image:url(../images/contact_form_bg_gr.gif);
+
+	
+	
+}
+
+#contact_form_top{
+	background-image:url(../images/contact_form_top_gr.gif);
+
+	
+}
+
+#contact_form_bottom{
+	background-image:url(../images/contact_form_bottom_gr.gif);
+
+	
+}
+
+.contact_form_input{
+	background-color:#f4f0e1;
+	border:1px solid #d5cbaf;
+
+}
+
+a.btn , a.btn {
+    background: transparent url(../images/buttons_a_green.gif) no-repeat scroll top right;
+
+}
+
+a.btn span , a.btn span {
+    background: transparent url(../images/buttons_span_green.gif) no-repeat top left;
+	text-shadow:1px 1px #536e11;
+
+}
+
+
+.prev_post{
+
+	background-image:url(../images/prev_news_green.png);
+
+	
+}
+
+a {
+	color: #718618;
+}
+
+.post_info a{
+	color: #718618;
+
+}
+
+.post_info{
+	color: #718618;
+
+	
+}
+
+
+#prev_post_l{
+
+	background-image:url(../images/prev_post_nav_l_gr.png);
+
+		
+}
+#prev_post_l:hover{
+	
+	background-image:url(../images/prev_post_nav_l_hover_gr.png);	
+}
+
+#prev_post_r{
+
+	background-image:url(../images/prev_post_nav_r_gr.png);
+
+		
+}
+#prev_post_r:hover{
+	
+	background-image:url(../images/prev_post_nav_r_hover_gr.png);	
+}

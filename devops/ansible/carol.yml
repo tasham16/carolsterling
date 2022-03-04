@@ -1,0 +1,22 @@
+---
+- hosts: carolsterling
+  become: yes
+  roles:
+    - jyunderwood.hostname
+    - Stouts.timezone
+    - geerlingguy.firewall
+    - geerlingguy.nodejs
+    - geerlingguy.ntp
+    - gantsign.oh-my-zsh
+    - weareinteractive.pm2
+  vars:
+    timezone_timezone: America/New_York
+    nodejs_version: "8.x" # note: default would be 6 !
+    firewall_allowed_tcp_ports:
+      - "80"
+      - “8080"
+      - "7707"
+    firewall_forwarded_tcp_ports:
+      - { src: "80", dest: "8080" }
+    users: # for oh-my-ssh
+      - username: root

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+  <settings>
+    <show_categories>on</show_categories> <!-- on/off -->
+    <all_text>ALL</all_text>  <!-- displayed before the categories -->
+    <animation_speed>800</animation_speed>
+    <animation_easing>easeOutExpo</animation_easing>
+    <items_per_page>12</items_per_page>
+  </settings>
+
+  <categories>
+    <category id="older">Older Adults</category>
+    <category id="young">Young Children</category>
+    <category id="highschool">High Schoolers</category>
+  </categories>
+
+  <items>
+
+    <item>
+      <thumbnail>carol-images/photos/older/selected/DSCF1501_thumb.png</thumbnail>
+      <preview>carol-images/photos/older/selected/DSCF1501_preview.png</preview>
+      <category>older</category>
+      <description>Carol Sterling older adult workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/older/selected/IMG_1632_thumb.png</thumbnail>
+      <preview>carol-images/photos/older/selected/IMG_1632_preview.png</preview>
+      <category>older</category>
+      <description>Carol Sterling older adult workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/older/selected/IMG_1654_thumb.png</thumbnail>
+      <preview>carol-images/photos/older/selected/IMG_1654_preview.png</preview>
+      <category>older</category>
+      <description>Carol Sterling older adult workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/older/selected/IMG_1665_thumb.png</thumbnail>
+      <preview>carol-images/photos/older/selected/IMG_1665_preview.png</preview>
+      <category>older</category>
+      <description>Carol Sterling older adult workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/older/selected/IMG_7545_thumb.png</thumbnail>
+      <preview>carol-images/photos/older/selected/IMG_7545_preview.png</preview>
+      <category>older</category>
+      <description>Carol Sterling older adult workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/older/selected/IMG_7546_thumb.png</thumbnail>
+      <preview>carol-images/photos/older/selected/IMG_7546_preview.png</preview>
+      <category>older</category>
+      <description>Carol Sterling older adult workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/older/selected/IMG_7626_thumb.png</thumbnail>
+      <preview>carol-images/photos/older/selected/IMG_7626_preview.png</preview>
+      <category>older</category>
+      <description>Carol Sterling older adult workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/older/selected/IMG_7632_thumb.png</thumbnail>
+      <preview>carol-images/photos/older/selected/IMG_7632_preview.png</preview>
+      <category>older</category>
+      <description>Carol Sterling older adult workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/older/selected/IMG_7837_thumb.png</thumbnail>
+      <preview>carol-images/photos/older/selected/IMG_7837_preview.png</preview>
+      <category>older</category>
+      <description>Carol Sterling older adult workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/older/selected/IMG_7841_thumb.png</thumbnail>
+      <preview>carol-images/photos/older/selected/IMG_7841_preview.png</preview>
+      <category>older</category>
+      <description>Carol Sterling older adult workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/older/selected/IMG_7843_thumb.png</thumbnail>
+      <preview>carol-images/photos/older/selected/IMG_7843_preview.png</preview>
+      <category>older</category>
+      <description>Carol Sterling older adult workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/older/selected/IMG_7846_thumb.png</thumbnail>
+      <preview>carol-images/photos/older/selected/IMG_7846_preview.png</preview>
+      <category>older</category>
+      <description>Carol Sterling older adult workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/highschool/selected/IMG_4833_thumb.png</thumbnail>
+      <preview>carol-images/photos/highschool/selected/IMG_4833_preview.png</preview>
+      <category>highschool</category>
+      <description>Carol Sterling high school workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/highschool/selected/IMG_4974_thumb.png</thumbnail>
+      <preview>carol-images/photos/highschool/selected/IMG_4974_preview.png</preview>
+      <category>highschool</category>
+      <description>Carol Sterling high school workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/highschool/selected/IMG_4980_thumb.png</thumbnail>
+      <preview>carol-images/photos/highschool/selected/IMG_4980_preview.png</preview>
+      <category>highschool</category>
+      <description>Carol Sterling high school workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/highschool/selected/IMG_4981_thumb.png</thumbnail>
+      <preview>carol-images/photos/highschool/selected/IMG_4981_preview.png</preview>
+      <category>highschool</category>
+      <description>Carol Sterling high school workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/highschool/selected/IMG_4982_thumb.png</thumbnail>
+      <preview>carol-images/photos/highschool/selected/IMG_4982_preview.png</preview>
+      <category>highschool</category>
+      <description>Carol Sterling high school workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/highschool/selected/IMG_4984_thumb.png</thumbnail>
+      <preview>carol-images/photos/highschool/selected/IMG_4984_preview.png</preview>
+      <category>highschool</category>
+      <description>Carol Sterling high school workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/highschool/selected/IMG_5017_thumb.png</thumbnail>
+      <preview>carol-images/photos/highschool/selected/IMG_5017_preview.png</preview>
+      <category>highschool</category>
+      <description>Carol Sterling high school workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/highschool/selected/IMG_5194_thumb.png</thumbnail>
+      <preview>carol-images/photos/highschool/selected/IMG_5194_preview.png</preview>
+      <category>highschool</category>
+      <description>Carol Sterling high school workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/highschool/selected/IMG_5196_thumb.png</thumbnail>
+      <preview>carol-images/photos/highschool/selected/IMG_5196_preview.png</preview>
+      <category>highschool</category>
+      <description>Carol Sterling high school workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/highschool/selected/IMG_7612_thumb.png</thumbnail>
+      <preview>carol-images/photos/highschool/selected/IMG_7612_preview.png</preview>
+      <category>highschool</category>
+      <description>Carol Sterling high school workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/highschool/selected/IMG_7616_thumb.png</thumbnail>
+      <preview>carol-images/photos/highschool/selected/IMG_7616_preview.png</preview>
+      <category>highschool</category>
+      <description>Carol Sterling high school workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/highschool/selected/IMG_7619_thumb.png</thumbnail>
+      <preview>carol-images/photos/highschool/selected/IMG_7619_preview.png</preview>
+      <category>highschool</category>
+      <description>Carol Sterling high school workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_0267_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_0267_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_0955_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_0955_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_1808_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_1808_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_2255_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_2255_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_2259_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_2259_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_2507_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_2507_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_2599_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_2599_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_2658_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_2658_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_3044_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_3044_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_3092_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_3092_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_6664_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_6664_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_6718_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_6718_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_6719_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_6719_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_6841_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_6841_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_7205_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_7205_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+    <item>
+      <thumbnail>carol-images/photos/young/selected/IMG_7206_thumb.png</thumbnail>
+      <preview>carol-images/photos/young/selected/IMG_7206_preview.png</preview>
+      <category>young</category>
+      <description>Carol Sterling childrens' workshop.</description>
+    </item>
+
+
+  </items>
+</portfolio>
